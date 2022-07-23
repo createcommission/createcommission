@@ -1,5 +1,5 @@
 <img align="right" src="https://i.imgur.com/lryIlZT.png"/>
-Hello! <br> <br>Food for thought...<br>
+Hello! <br> Food for thought... <br> <br>
 To what extent should one trust a statement that a program is free of Trojan horses? Perhaps it is more important to trust the people who wrote the software. <br> <br>
 Three things are required to accomplish anything complex: <br>
 1) a plan <br>
