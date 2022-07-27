@@ -1,5 +1,5 @@
 <img align="right" src="https://i.imgur.com/lryIlZT.png"/>
-Hi, my name is ... I forgot my name.<br>
+<br>
 !<br>
 Food for thought...<br>
 <b>Only three things are required to accomplish anything complex:<br>
