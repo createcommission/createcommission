@@ -1,7 +1,8 @@
 <img align="right" src="https://i.imgur.com/lryIlZT.png"/>
 <br>
 <p align="center">!<br>
-Food for thought...<br><br></p>
+Food for thought...</p>
+<br><br>
 <b>Only three things are required to accomplish anything complex:</b>
 <ol>
 <li> a plan</li>
