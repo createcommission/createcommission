@@ -1,7 +1,12 @@
 <img align="right" src="https://i.imgur.com/lryIlZT.png"/>
 <br>
 <p align="center">!<br>
-Food for thought...</p>
+Food for thought...<br>
+<img align="middle" src="https://user-images.githubusercontent.com/53830123/181355857-c02058ea-5c57-4c0a-99f2-bc44ffe9f8f0.gif"/>
+
+
+</p>
+
 <br><br>
 <b>Only three things are required to accomplish anything complex:</b>
 <ol>
@@ -13,5 +18,6 @@ Food for thought...</p>
 <br>
 <p>To what extent should one trust a statement that a program is free of Trojan horses? Perhaps it is more important to trust the people who wrote the software.</p>
 <br><br>
+
 
 https://user-images.githubusercontent.com/53830123/180611692-48c4eb9c-5db7-486f-8a0f-00ce85695395.mp4
