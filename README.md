@@ -15,9 +15,9 @@ https://user-images.githubusercontent.com/53830123/180611692-48c4eb9c-5db7-486f-
 <br><br>
 <b>Only three things are required to accomplish anything complex:</b>
   <ol>
-    <li><i>a plan</i></li>
-    <li><i>the knowledge to put the plan into effect</i></li>
-    <li><i>the spirit to carry it through to completion</i></li>
+    <li><i>A plan.</i></li>
+    <li><i>Knowledge to put the plan into effect.</i></li>
+    <li><i>Spirit to carry it through to completion.</i></li>
   </ol>
 <br><br>
 
