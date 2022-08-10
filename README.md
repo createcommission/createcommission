@@ -15,11 +15,10 @@ https://user-images.githubusercontent.com/53830123/180611692-48c4eb9c-5db7-486f-
 </p>
 <br><br>
 <b>Only three things are required to accomplish anything complex:</b>
-<ol>
-  <li><i>a plan</i></li>
-  <li><i>the knowledge to put the plan into effect</i></li>
-  <li><i>the spirit to carry it through to completion</i></li>
-</ol>
-<br>
-
+  <ol>
+    <li><i>a plan</i></li>
+    <li><i>the knowledge to put the plan into effect</i></li>
+    <li><i>the spirit to carry it through to completion</i></li>
+  </ol>
+<br><br>
 To what extent should one trust a statement that a program is free of Trojan horses? Perhaps it is more important to trust the people who wrote the software.<img src="https://user-images.githubusercontent.com/53830123/183766732-bf6bac37-0bba-4019-892e-eb0460664d64.gif"/>
