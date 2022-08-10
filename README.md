@@ -2,7 +2,9 @@
 <br>
 <p align="center">
   <br>
-  Food for thought...<img src="https://user-images.githubusercontent.com/53830123/183767154-b706f8b9-3369-4f90-987c-7a2acc5549e7.gif"/>
+  Food for thought...
+  <br>
+  <img src="https://user-images.githubusercontent.com/53830123/183767154-b706f8b9-3369-4f90-987c-7a2acc5549e7.gif"/>
   <br>
   <img src="https://user-images.githubusercontent.com/53830123/181355857-c02058ea-5c57-4c0a-99f2-bc44ffe9f8f0.gif"/>
   <br>
