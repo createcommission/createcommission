@@ -13,12 +13,16 @@ https://user-images.githubusercontent.com/53830123/180611692-48c4eb9c-5db7-486f-
   <br>
 </p>
 <br><br>
-<b>Only three things are required to accomplish anything complex:</b>
-  <ol>
-    <li><i>A plan.</i></li>
-    <li><i>Knowledge to put the plan into effect.</i></li>
-    <li><i>Spirit to carry it through to completion.</i></li>
-  </ol>
-<br><br>
-
-To what extent should one trust a statement that a program is free of Trojan horses? Perhaps it is more important to trust the people who wrote the software.<img src="https://user-images.githubusercontent.com/53830123/183766732-bf6bac37-0bba-4019-892e-eb0460664d64.gif"/>
+<p>
+  <b>Only three things are required to accomplish anything complex:</b>
+    <ol>
+      <li><i>A plan.</i></li>
+      <li><i>Knowledge to put the plan into effect.</i></li>
+      <li><i>Spirit to carry it through to completion.</i></li>
+    </ol>
+  <br><br>
+  The internet is the largest collection of human knowledge ever. Its size is global. All the information on a network of electronic devices; spread around the world and connected by wire.
+  
+  
+  To what extent should one trust a statement that a program is free of Trojan horses? Perhaps it is more important to trust the people who wrote the software.<img src="https://user-images.githubusercontent.com/53830123/183766732-bf6bac37-0bba-4019-892e-eb0460664d64.gif"/>
+</p>
